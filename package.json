@@ -1,0 +1,22 @@
+{
+  "name": "h3prismapostgre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "gbri-dev",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "consola": "latest",
+    "h3": "latest",
+    "listhen": "latest",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.10"
+  }
+}
